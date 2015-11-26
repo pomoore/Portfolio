@@ -1,0 +1,82 @@
+html{
+    fit:fill;
+    background-color:black;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.Name {
+    font-size: 36px;
+    font-family: 'Montserrat',serif;
+    text-decoration: none;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    display: block;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    text-align:center;
+    padding: none;
+}
+li {
+    text-transform: uppercase;
+    display: inline;
+    padding-right: 20px;
+}
+li a {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+li a:hover {
+    color: orange;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.Hero { 
+   position: relative; 
+   width: 100%;
+     min-height: 660px; 
+     background-image: url(/Assets/Images/Hero.jpg);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: cover;
+    display: inline-block;
+}
+h6{
+    color: #FFFFFF;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    top: 92%;
+    left: 47%;
+    opacity: 0.5; 
+}
+/* Projects */
+.col-lg-6{
+    margin: auto;
+    width: ;
+    overflow: hidden;
+       
+}
+a img{
+  width: 100%;
+height: 540px;
+    overflow: hidden;
+}
+
+#test {
+    background-image: url(/Assets/Images/changebank%20mockup.png);
+}
+.nopadding {
+   padding: 0 !important;
+}

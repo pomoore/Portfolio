@@ -1,0 +1,123 @@
+
+.navbar {
+    background-color:#FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.name {
+    font-size: 20px;
+    font-family: 'Montserrat',serif;
+    color: black;
+    text-decoration:none;
+    padding-right: 20px;
+}
+
+body{
+    background-color: #F7F7F7;
+    padding: 0px;
+    
+}
+ul{
+    text-decoration: none;
+    text-align:left;
+    padding-left: none;
+}
+.nav {
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 20px;
+}
+
+.nav a {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.name a:hover{
+color: black; 
+text-decoration: none;
+}
+.name a:link{
+color: black; 
+text-decoration: none;
+}
+li a:hover {
+    color: orange;
+    text-decoration: none;
+}
+li a:link {
+    color: black;
+}
+img {
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 94%;
+    margin-bottom: 10px;
+}
+.next {
+   font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+    padding-right: 40px;
+    float: right;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+  
+}
+.next:link{
+    text-decoration:none;
+    color: black;
+}
+.back:link{
+    text-decoration:none;
+}
+.back:visited{
+    text-decoration: none;
+    color: orange;
+}
+.next:visited{
+    text-decoration: none;
+    color: orange;
+}
+.next:hover {
+    text-decoration: underline;
+    color: black; }
+p {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    color: black;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
+    color: black;
+    clear: both;
+    font-weight: bold;
+}
+.back:hover {
+    text-decoration: underline;
+    color: black;
+}
+.back{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+    padding-left: 40px;
+    float: left;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    color: orange;
+}
+
